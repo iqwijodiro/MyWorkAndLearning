@@ -14,14 +14,16 @@ iqwijodiro/TeoAcademy at newDesign-V2 (github.com) (Not deployed: heroku changes
 
 
 Wordpress (Elementor, Woocommerce, Tutor LMS, Themes)
+
 [Tu Academia Teológica Online | Theo Academy](https://theoacademy.org/)
 
 [Inicio | SEGO Training](https://segotraining.com/)
 
 Figma (my design) HTML, CSS, JS Bootstrap 5
+
 [SADA | Asesoría Financiera ](sadafinances.netlify.app)
 
-A basic Landing to learn basic Webpack -  [Your Recipe Bank](recipedblogdev.netlify.app)
+A basic Landing to learn basic Webpack -  [Reciped - Your Recipe Bank](recipedblogdev.netlify.app)
 
 [iqwijodiro/reciped-blog: This is a blog created by me, to learn and develop my skills with the basics of the web: HTML, CSS (SCSS) and JavaScript](https://github.com/iqwijodiro/reciped-blog)
 
