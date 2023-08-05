@@ -19,6 +19,8 @@ Wordpress (Elementor, Woocommerce, Tutor LMS, Themes)
 
 [Inicio | SEGO Training](https://segotraining.com/)
 
+[Praderas de Alajuela | Condominios](https://praderasdealajuela.com/) (Tema desarrollado sin plugins)
+
 Figma (my design) HTML, CSS, JS Bootstrap 5
 
 [SADA | Asesoría Financiera ](sadafinances.netlify.app)
