@@ -23,7 +23,7 @@ iqwijodiro/TeoAcademy at newDesign-V2 (github.com) (Not deployed: heroku changes
 
 ## HTML, CSS, JS, Bootstrap 5 & Figma (my designs)
 
-[SADA | Asesoría Financiera ]((https://sadafinances.netlify.app/))
+[SADA | Asesoría Financiera ](https://sadafinances.netlify.app/)
 
 A basic Landing to learn basic Webpack -  [Reciped - Your Recipe Bank](https://recipedblogdev.netlify.app/)
 
