@@ -15,7 +15,7 @@ iqwijodiro/TeoAcademy at newDesign-V2 (github.com) (Not deployed: heroku changes
 
 ## Wordpress Skills (Elementor, Woocommerce, Tutor LMS, Themes) ##
 
-[Tu Academia Teológica Online | Theo Academy](https://theoacademy.org/) 
+[Tu Academia Teológica Online | Theo Academy](https://theoacademy.org/) (Using Elementor, Elementor Pro, Essentials addons for Elementor)
 
 [Praderas de Alajuela | Condominios](https://praderasdealajuela.com/) (No Builders, just HTML, CSS, PHP)
 
