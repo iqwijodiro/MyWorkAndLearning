@@ -13,15 +13,13 @@ Vue + Nuxt + Vuetify (v2)
 iqwijodiro/TeoAcademy at newDesign-V2 (github.com) (Not deployed: heroku changes)
 
 
-Wordpress (Elementor, Woocommerce, Tutor LMS, Themes)
+##Wordpress Skills (Elementor, Woocommerce, Tutor LMS, Themes)
 
-[Tu Academia Teológica Online | Theo Academy](https://theoacademy.org/)
+[Tu Academia Teológica Online | Theo Academy](https://theoacademy.org/) 
 
-[Inicio | SEGO Training](https://segotraining.com/)
+[Praderas de Alajuela | Condominios](https://praderasdealajuela.com/) (Tema desarrollado sin plugins ni constructores, solo usando HTML, CSS y PHP)
 
-[Praderas de Alajuela | Condominios](https://praderasdealajuela.com/) (Tema desarrollado sin plugins)
-
-Figma (my design) HTML, CSS, JS Bootstrap 5
+##Figma (my designs) HTML, CSS, JS Bootstrap 5
 
 [SADA | Asesoría Financiera ](sadafinances.netlify.app)
 
