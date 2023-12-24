@@ -13,7 +13,7 @@ Vue + Nuxt + Vuetify (v2)
 iqwijodiro/TeoAcademy at newDesign-V2 (github.com) (Not deployed: heroku changes)
 
 
-## Wordpress Skills (Elementor, Woocommerce, Tutor LMS, Themes)
+## Wordpress Skills (Elementor, Woocommerce, Tutor LMS, Themes) ##
 
 [Tu Academia Teológica Online | Theo Academy](https://theoacademy.org/) 
 
