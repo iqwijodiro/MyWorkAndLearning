@@ -19,7 +19,7 @@ iqwijodiro/TeoAcademy at newDesign-V2 (github.com) (Not deployed: heroku changes
 
 [Praderas de Alajuela | Condominios](https://praderasdealajuela.com/) (Tema desarrollado sin plugins ni constructores, solo usando HTML, CSS y PHP)
 
-##Figma (my designs) HTML, CSS, JS Bootstrap 5
+##Figma (my designs) HTML, CSS, JS Bootstrap 5##
 
 [SADA | Asesoría Financiera ](sadafinances.netlify.app)
 
