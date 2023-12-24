@@ -17,13 +17,15 @@ iqwijodiro/TeoAcademy at newDesign-V2 (github.com) (Not deployed: heroku changes
 
 [Tu Academia Teológica Online | Theo Academy](https://theoacademy.org/) 
 
-[Praderas de Alajuela | Condominios](https://praderasdealajuela.com/) (Tema desarrollado sin plugins ni constructores, solo usando HTML, CSS y PHP)
+[Praderas de Alajuela | Condominios](https://praderasdealajuela.com/) (No Builders, just HTML, CSS, PHP)
+
+[Aliado comercial Sego Training | Empresas](https://broiled-rope.000webhostapp.com/) (No Builders, just HTML, CSS, SCSS, Gulp, JS, Bootstrap, PHP)
 
 ## HTML, CSS, JS, Bootstrap 5 & Figma (my designs)
 
-[SADA | Asesoría Financiera ](sadafinances.netlify.app)
+[SADA | Asesoría Financiera ]((https://sadafinances.netlify.app/))
 
-A basic Landing to learn basic Webpack -  [Reciped - Your Recipe Bank](recipedblogdev.netlify.app)
+A basic Landing to learn basic Webpack -  [Reciped - Your Recipe Bank](https://recipedblogdev.netlify.app/)
 
 [iqwijodiro/reciped-blog: This is a blog created by me, to learn and develop my skills with the basics of the web: HTML, CSS (SCSS) and JavaScript](https://github.com/iqwijodiro/reciped-blog)
 
